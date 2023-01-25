@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -w"
+    "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "Erika Faustino",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^10.2.0"
