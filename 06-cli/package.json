@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -w"
   },
   "keywords": [],
   "author": "Erika Faustino",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
   }
 }
